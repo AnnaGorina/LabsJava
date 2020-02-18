@@ -1,6 +1,6 @@
 package com.company;
 
-public class Ellipse extends Point{
+public class Ellipse extends Rectangle{
     private int a;
     private int b;
 
